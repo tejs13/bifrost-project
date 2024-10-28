@@ -1,0 +1,9 @@
+Flask
+Pillow
+numpy
+pandas
+matplotlib
+scikit-image
+scipy
+Werkzeug
+pytest
